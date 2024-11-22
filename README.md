@@ -13,3 +13,6 @@ SW (4-bit): The input value to be displayed, representing an unsigned integer (0
     * If greater than 9, calculate A = SW - 10 and display 1 on HEX1.
     * If SW ≤ 9, display the original value on HEX0.
 - Encode each segment of the 7-segment display to light up specific LEDs based on the binary input.
+
+![image](https://github.com/user-attachments/assets/d744447a-8548-4a1f-80e8-e0b7ea538753)
+
